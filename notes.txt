@@ -1,0 +1,84 @@
+Curriculo - João Victor Rodrigues do Nascimento
+Desenvolvedor de Software
+Ferraz de Vasconcelos, São Paulo
++55 11 9510-73936
+joaovrnas@gmail.com
+https://github.com/johnvrnas
+SOBRE
+
+Estudante que busca oportunidade para aprender e se desenvolver como um profissional de tecnologia, usando a programação no dia a dia. Sempre estudando algo novo. Atualmente estudando Engenharia de Prompt.
+EXPERIÊNCIA
+Wizard by Pearson, Ferraz de Vasconcelos — Instrutor de Idiomas 
+JUNHO /  JULHO DE 2024
+Como monitor eu tinha como responsabilidade decorar a escola com diversos temas, aplicar aulas de reforço de acordo com a necessidade de cada aluno, organizar atividades para alunos e colaboradores, criar artes e administrar as redes sociais.
+Desk Manager, Mogi das Cruzes — Estagiário de Eficiência Operacional 
+MAIO DE 2025 / NOVEMBRO DE 2025
+Desenvolvia soluções inteligentes e eficientes para clientes internos da Desk Manager, usava tecnologias como Python/JavaScript/HTML & CSS para fazer automações diversas. Junto do Maestro (IPASS Da Desk Manager) conseguia realizar diversos gatilhos internos, criando agendamentos de tarefas, formulários inteligentes e agentes de IA
+FORMAÇÃO
+Universidade de Mogi das Cruzes - UMC, Mogi das Cruzes — Tecnólogo
+Julho de 2023 - Julho de 2025
+Análise e Desenvolvimento de Sistemas - Matutino
+Universidade Uniamericas, Foz do Iguaçu (Remoto) — Bacharelado
+Dezembro de 2025 - Em andamento
+Engenharia de Software - Remoto
+PROJETOS
+Projetos na Desk Manager— Projetos realizados enquanto estagiário 
+Atuava no desenvolvimento de integrações entre plataformas utilizando IPASS(Maestro – Desk Manager) e Python com APIs REST, automatizando processos internos e a abertura de tickets por meio de Forms  inteligentes. Desenvolvia também Agentes de IA capazes de consultar APIs corporativas e fontes externas para analisar informações e gerar insights operacionais em tempo real, auxiliando equipes na tomada de decisão. Além disso, implementa interfaces em HTML, CSS e JavaScript, alinhadas a fluxos de trabalho Kanban e modelagens de processo baseadas no BPMN. 
+
+
+TECNOLOGIAS
+Java: Desenvolvimento de aplicações robustas e escaláveis. Utilização do Spring Boot para criação de APIs REST, Swing para interfaces gráficas e integração com bancos de dados.
+Python: Análise de dados, automação de processos, manipulação de dados, além de automação de tarefas repetitivas com scripts personalizados.
+JavaScript: Desenvolvimento de interfaces dinâmicas e interativas para a web. Manipulação do DOM, consumo de APIs e integração com frameworks modernos.
+PHP: Desenvolvimento de aplicações web dinâmicas, manipulação de formulários, integração com bancos de dados e criação de APIs REST
+MySQL: Suporte a consultas SQL avançadas, normalização de dados e integração com diversas aplicações.
+IDIOMAS
+Inglês - Fluente - Nível B2/C1 no Linguaskill from Cambridge
+Português - Fluente- Idioma nativo
+Italiano - Básico 
+
+
+
+
+
+
+
+
+
+Vaga - At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Embark on your programming journey as a Java Developer Intern, diving into Java basics and object-oriented principles. In this role, you'll learn through hands-on project involvement, gaining foundational Java development skills under the mentorship of experienced professionals.
+
+What you will do:
+
+Assist in writing and maintaining simple Java applications under the guidance of more experienced developers.
+Learn and apply Java coding standards and best practices, focusing on writing clean, efficient, and readable code.
+Participate in code reviews and debugging processes to gain an understanding of code quality and maintenance.
+Engage in training sessions and actively work to improve Java programming skills and understanding of the Java ecosystem.
+Help in testing developed applications, learning to identify and fix bugs with guidance from senior team members.
+Collaborate with team members on software development projects, gaining exposure to different stages of the software development lifecycle. Here's what we are looking for:
+
+Knowledge of Java.
+Effective communication and active listening skills (Here, we learn from our - teams!).
+Proactive and willing to learn.
+Good critical thinker and problem-solver.
+Able to make connections across complex ideas.
+Good level of English.
+
+How we do make your work (and your life) easier:
+
+100% remote work (from anywhere).
+Excellent compensation in USD or your local currency if preferred
+Hardware and software setup for you to work from home.
+Flexible hours: create your own schedule.
+Paid parental leaves, vacations, and national holidays.
+Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+
+Idioma: Inglês - Fluente
