@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
-from dependencies import JobOptimizationRequest, PDFRequest, optimize_with_openrouter
+from .dependencies import JobOptimizationRequest, PDFRequest, optimize_with_openrouter
 from utils.pdf_generator import ResumePDF
 
 app = FastAPI()
